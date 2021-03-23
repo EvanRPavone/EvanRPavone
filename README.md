@@ -11,7 +11,7 @@ Project Showcase App | https://github.com/EvanRPavone/project-showcase-app
 ### How to reach me
 You can reach me by: | Email or LinkedIn
 -------------------- | ----
-Email | EvanRPavone@Gmail.com
+Email | EvanRPavone@gmail.com
 LinkedIn | https://www.linkedin.com/in/evan-pavone/
 
 <!---
