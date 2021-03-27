@@ -1,4 +1,4 @@
-# Hi, I’m @EvanRPavone
+# Hi, I’m Evan Pavone
 ## My Projects
 Name of Project | Link To Project
 --------------- | ---------------
