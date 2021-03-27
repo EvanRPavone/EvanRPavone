@@ -4,7 +4,7 @@ Name of Project | Link To Project
 --------------- | ---------------
 SuperDroid Robots CLI | https://github.com/EvanRPavone/cli-superdroid-robots
 Sinatra Game Reviews | https://github.com/EvanRPavone/sinatra-games
-Strong Missions | https://github.com/EvanRPavone/StrongMissions
+Strong Missions Trip Logistics | https://github.com/EvanRPavone/StrongMissions
 Favorite Breweries App | https://github.com/EvanRPavone/favorite-breweries-frontend
 Project Showcase App | https://github.com/EvanRPavone/project-showcase-app
 
