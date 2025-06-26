@@ -16,7 +16,7 @@ I'm a full-stack software engineer with 2+ years of professional experience buil
 ## 🚀 Featured Projects
 
 - **🧠 AI Sidekick** – A custom desktop assistant using OpenAI, React, and local session management  
-- **🕹️ Minecraft EC2 Control Panel** – Python GUI app that manages AWS, SSH, and RCON with real-time logs  
+- **🕹️ EC2 Control Panel** – Python GUI app that manages AWS, SSH, and RCON with real-time logs  
 - **📊 Dynamic Portfolio Site** – A full-stack personal site that pulls content from Google Sheets via API
 
 ---
