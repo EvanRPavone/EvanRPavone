@@ -1,23 +1,44 @@
-# Hi, I’m Evan Pavone
-## My Projects
-Name of Project | Example Video
---------------- | ---------------
-Vehicle History | [Download](https://github.com/EvanRPavone/EvanRPavone/assets/68548936/bf08e4d7-ec52-4bbe-be4b-00ea941bf656)
-Zipcode Map Coverage | [Download](https://github.com/EvanRPavone/EvanRPavone/assets/68548936/37e321ae-9f0a-4d48-bcf5-2ddaa0a84edb)
+# 👋 Hi, I'm Evan Pavone
 
-Name of Project | Link To Project
---------------- | ---------------
-SuperDroid Robots CLI | https://github.com/EvanRPavone/cli-superdroid-robots
-Sinatra Game Reviews | https://github.com/EvanRPavone/sinatra-games
-Strong Missions Trip Logistics | https://github.com/EvanRPavone/StrongMissions
-Favorite Breweries App | https://github.com/EvanRPavone/favorite-breweries-frontend
-Project Showcase App | https://github.com/EvanRPavone/project-showcase-app
+I'm a full-stack software engineer with 2+ years of professional experience building everything from fast-moving MVPs to scalable backend systems. I started with Ruby on Rails, expanded into Node.js and React, and now focus heavily on Python, automation, and AI-driven tools.
 
-### How to reach me
-You can reach me by: | Email or LinkedIn
--------------------- | ----
-Email | EvanRPavone@gmail.com
-LinkedIn | https://www.linkedin.com/in/evan-pavone/
+---
+
+## 🔧 What I Do
+
+- **Full-Stack Development** – Python (Flask, FastAPI), Node.js, Ruby on Rails, React, TypeScript
+- **Automation & APIs** – REST/GraphQL, Slack, Google Sheets, AWS, OpenAI, RCON, and more
+- **AI Integration** – Custom GPT-powered tools and assistants, prompt workflows, and real-time app integrations
+- **Dev Tools & Ops** – Git, Docker, Railway, Render, Vercel, GitHub Actions
+
+---
+
+## 🚀 Featured Projects
+
+- **🧠 AI Sidekick** – A custom desktop assistant using OpenAI, React, and local session management  
+- **🕹️ Minecraft EC2 Control Panel** – Python GUI app that manages AWS, SSH, and RCON with real-time logs  
+- **📊 Dynamic Portfolio Site** – A full-stack personal site that pulls content from Google Sheets via API
+
+---
+
+## 🌱 Currently Learning
+
+- Deeper AI tool integration (HeyGen, ElevenLabs, etc.)  
+- Scaling API-first architectures  
+- Frontend performance and accessibility best practices  
+
+---
+
+## 📫 Get in Touch
+
+- 📧 [Email](mailto:evanpavone@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/evanpavone)  
+- 💼 Open to freelance work on Upwork and collaborations
+
+---
+
+Thanks for stopping by!
+
 
 <!---
 EvanRPavone/EvanRPavone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
